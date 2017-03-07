@@ -1,3 +1,0 @@
-1) version de python 3.4.4
-2) mysql-connector-python-2.1.5
-3) la DB MyMql se llama python y tiene una tabla llamada prueba
